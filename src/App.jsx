@@ -12,7 +12,7 @@ import NotFound from './pages/NotFound.jsx'
 import Navbar from './components/Navbar.jsx'
 import UserContextProvider, { UserContext } from './contexts/UserContext.jsx'
 
-
+console.log("FUCK GITHUB");
 
 function App() {
 
